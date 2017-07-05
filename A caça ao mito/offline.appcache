@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1497293752
+#1499261102
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -9,6 +9,8 @@ images/chao.png
 images/terra-sheet0.png
 images/blocoindio-sheet0.png
 images/indio-sheet0.png
+images/indio-sheet1.png
+images/indio-sheet2.png
 images/blocoterra-sheet0.png
 images/bloco-sheet0.png
 images/inimigo1-sheet0.png
@@ -16,6 +18,31 @@ images/sensormudarlado-sheet0.png
 images/comida-sheet0.png
 images/nome1-sheet0.png
 images/nome2-sheet0.png
+images/vida-sheet0.png
+images/flecha-sheet0.png
+images/explosao-sheet0.png
+images/fundo-sheet0.png
+images/indiofim-sheet0.png
+images/press-sheet0.png
+images/gameover-sheet0.png
+images/indiomenu-sheet0.png
+images/cenariofase2-sheet0.png
+images/chaofase2.png
+images/indiofase2-sheet0.png
+images/blocoindio2-sheet0.png
+images/chefão-sheet0.png
+images/bolafogo-sheet0.png
+images/sensormorte-sheet0.png
+images/espinhos-sheet0.png
+images/instruçoes-sheet0.png
+images/sensortiro-sheet0.png
+images/instruçoes2-sheet0.png
+images/sprite3-sheet0.png
+images/venc-sheet0.png
+images/entvenc-sheet0.png
+images/creditos-sheet0.png
+media/som%20de%20fundo%20jogo%20(online-audio-converter.com).m4a
+media/som%20de%20fundo%20jogo%20(online-audio-converter.com).ogg
 icon-16.png
 icon-32.png
 icon-114.png
