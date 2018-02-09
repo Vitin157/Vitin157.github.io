@@ -16,7 +16,7 @@ Alunao de jogos aprendendo a fazer um portifolio com o prof. maravilhoso Marcelo
 
 [A caça ao mito](https://vitin157.github.io/a_caça_ao_mito/)
 
-[Historia do futebol] (https://vitin157.github.io/HistoryofSoccer/)
+[Historia do futebol](https://vitin157.github.io/HistoryofSoccer/)
 
 ##Artes
 
