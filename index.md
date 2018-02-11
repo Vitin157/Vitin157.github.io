@@ -13,17 +13,17 @@ Vitor Manoel, estudante quase concluinte do curso de Programação de Jogos Digi
  * * *
  # PORTIFÓLIOS
  * * *
- ### --> GAMES  
+ ###  GAMES  
 [JOGO OFICINA: A caça ao mito ](https://vitin157.github.io/a_caça_ao_mito/)  
 [JOGO OFICINA: A História do Futebol ](https://vitin157.github.io/HistoryofSoccer/)  
 * * *
- ### --> PRODUÇÕES  
+ ###  PRODUÇÕES  
  * * *
- ### --> ARTES  
+ ###  ARTES  
  ![IMAGEM1](LINK)  
  ![IMAGEM2]()
  * * *
- ### --> APRESENTAÇÕES  
+ ###  APRESENTAÇÕES  
  * AULA DE MÚSICA
  * AULA DE TEATRO
  * AULA DE JOGOS
