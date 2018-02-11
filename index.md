@@ -7,8 +7,9 @@ layout: default
 criando **minha** _página_ ~~principal~~
 * * *  
 
-# QUEM SOU EU?
- Vitor Manoel, estudante quase concluinte do curso de Programação de Jogos Digitais pelo IFRN-CM, 17 anos e futuro engenheiro químico. 
+# QUEM SOU EU?  
+![](pt1.png)  
+Vitor Manoel, estudante quase concluinte do curso de Programação de Jogos Digitais pelo IFRN-CM, 17 anos e futuro engenheiro químico. 
  * * *
  # PORTIFÓLIOS
  * * *
