@@ -8,8 +8,10 @@ criando **minha** _página_ ~~principal~~
 * * *  
 
 # QUEM SOU EU?  
-![](pt1.png)  
-Vitor Manoel, estudante quase concluinte do curso de Programação de Jogos Digitais pelo IFRN-CM, 17 anos e futuro engenheiro químico. 
+# ![](pt1.png)  
+Vitor Manoel, estudante quase concluinte do curso de Programação de Jogos Digitais pelo IFRN-CM, 17 anos e futuro engenheiro químico.
+Natal/RN
+
  * * *
  # PORTIFÓLIO  
  * * *  
@@ -29,6 +31,7 @@ Vitor Manoel, estudante quase concluinte do curso de Programação de Jogos Digi
  2. Thiago
  3. Durval
  * * *
+ ##Endereço para contato
  
  
 
