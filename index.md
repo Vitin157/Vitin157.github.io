@@ -31,9 +31,9 @@ Natal/RN
  2. Thiago
  3. Durval
  * * *
+ 
  ##Endereço para contato
   * E-MAIL: vitoralif@yahoo.com.br / vitinhomsf01@gmail.com
-  * Telefone: (84) 98730-6069
   * Facebook: Vitinho Silva
  
  
