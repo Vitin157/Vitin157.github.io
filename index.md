@@ -23,6 +23,7 @@ Natal/RN
 ## ARTES AUTORAIS:  
  ![](thgfdrghghrgjgfdrgjf.png)  
  ![](Nome.fw.png)
+ ![](sprite6-sheet0.png)
  * * *  
 ## PARTICIPAÇÕES EM EVENTOS:    
  * AULA DE MÚSICA
