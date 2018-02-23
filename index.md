@@ -28,7 +28,7 @@ Natal/RN
 
  * * *
  ## INFLUENCE MAP: 
- ![]()
+ ![](PicsArt_02-15-08.13.33.jpg)
  
  * * *  
 ## PARTICIPAÇÕES EM EVENTOS:    
