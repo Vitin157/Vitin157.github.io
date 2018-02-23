@@ -22,8 +22,10 @@ Natal/RN
  ![](thgfdrghghrgjgfdrgjf.png)  
  ![](Nome.fw.png)
  ![](sprite6-sheet0.png)
+ ![](fundo-sheet0.png)
  ![](LVitoria.png)
  ![](indio-sheet0.png)
+
  * * *  
 ## PARTICIPAÇÕES EM EVENTOS:    
  * AULA DE MÚSICA: **CIA MUSICAL TIÊ, OS SALTIMBANCOS, 2016.2**
