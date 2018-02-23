@@ -22,7 +22,7 @@ Natal/RN
  * * *  
 ## ARTES AUTORAIS:  
  ![](thgfdrghghrgjgfdrgjf.png)  
- ![](layout vitoria.png	)
+ ![](Nome.fw.png)
  * * *  
 ## PARTICIPAÇÕES EM EVENTOS:    
  * AULA DE MÚSICA
