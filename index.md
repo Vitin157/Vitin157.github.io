@@ -4,8 +4,6 @@ layout: default
 * * *
 
 
-criando **minha** _página_ ~~principal~~
-* * *  
 
 # QUEM SOU EU?  
 # ![](pt1.png)  
@@ -13,11 +11,11 @@ Vitor Manoel, estudante quase concluinte do curso de Programação de Jogos Digi
 Natal/RN
 
  * * *
- # PORTIFÓLIO  
+# PORTIFÓLIO  
  * * *  
 ## JOGOS:  
-[JOGO OFICINA: A caça ao mito ](https://vitin157.github.io/a_caça_ao_mito/)  
-[JOGO OFICINA: A História do Futebol ](https://vitin157.github.io/HistoryofSoccer/)  
+[JOGO OFICINA: A caça ao mito ](https://vitor04.github.io/a_caça_ao_mito/)  
+[JOGO OFICINA: A História do Futebol ](https://vitor04.github.io/HistoryofSoccer/)  
 [JOGO OFICINA: TOWER DEFENSE ](https://alvaromd2016.github.io/Tower%20Defense/)
  * * *  
 ## ARTES AUTORAIS:  
@@ -28,8 +26,8 @@ Natal/RN
  ![](indio-sheet0.png)
  * * *  
 ## PARTICIPAÇÕES EM EVENTOS:    
- * AULA DE MÚSICA: CIA MUSICAL TIÊ, OS SALTIMBANCOS, 2016.2
- * AULA DE TEATRO: CIA MUSICAL TIÊ, OS SALTIMBANCOS, 2016.2
+ * AULA DE MÚSICA: **CIA MUSICAL TIÊ, OS SALTIMBANCOS, 2016.2**
+ * AULA DE TEATRO: **CIA MUSICAL TIÊ, OS SALTIMBANCOS, 2016.2**
  * AULA DE JOGOS: IFRN, PROGRAMAÇÃO DE JOGOS DIGITAIS, CRIANDO JOGOS DESDE 2017.1
  
  1. Marcelo, PROFESSOR DE MOTORES DE JOGOS E OFICINA DE CRIAÇÃO
