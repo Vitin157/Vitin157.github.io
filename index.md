@@ -25,14 +25,16 @@ Natal/RN
  ![](Nome.fw.png)
  ![](sprite6-sheet0.png)
  ![](LVitoria.png)
+ ![](indio-sheet0.png)
  * * *  
 ## PARTICIPAÇÕES EM EVENTOS:    
- * AULA DE MÚSICA
- * AULA DE TEATRO
- * AULA DE JOGOS
- 1. Marcelo
- 2. Thiago
- 3. Durval
+ * AULA DE MÚSICA: CIA MUSICAL TIÊ, OS SALTIMBANCOS, 2016.2
+ * AULA DE TEATRO: CIA MUSICAL TIÊ, OS SALTIMBANCOS, 2016.2
+ * AULA DE JOGOS: IFRN, PROGRAMAÇÃO DE JOGOS DIGITAIS, CRIANDO JOGOS DESDE 2017.1
+ 
+ 1. Marcelo, PROFESSOR DE MOTORES DE JOGOS E OFICINA DE CRIAÇÃO
+ 2. Thiago, PROFESSOR DE GAME DESIGN
+ 3. Durval, PROFESSOR DE MULTIMÍDIA E ANIMAÇÃO
  * * *
  
  ## Endereço para contato
