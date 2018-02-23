@@ -19,12 +19,12 @@ Natal/RN
 [JOGO OFICINA: TOWER DEFENSE ](https://alvaromd2016.github.io/Tower%20Defense/)
  * * *  
 ## ARTES AUTORAIS:  
- ![](thgfdrghghrgjgfdrgjf.png)  
- ![](Nome.fw.png)
- ![](sprite6-sheet0.png)
- ![](fundo-sheet0.png)
- ![](LVitoria.png)
- ![](indio-sheet0.png)
+![](thgfdrghghrgjgfdrgjf.png)  
+![](Nome.fw.png)
+![](sprite6-sheet0.png)
+![](fundo-sheet0.png)
+![](LVitoria.png)
+![](indio-sheet0.png)
 
  * * *  
 ## PARTICIPAÇÕES EM EVENTOS:    
@@ -39,7 +39,7 @@ Natal/RN
  
  ## Endereço para contato
   * E-MAIL: vitoralif@yahoo.com.br / vitinhomsf01@gmail.com
-  * Facebook: Vitinho Silva
+  * Facebook: [](https://www.facebook.com/vitinhomsf01)
  
  
 
