@@ -24,6 +24,7 @@ Natal/RN
  ![](thgfdrghghrgjgfdrgjf.png)  
  ![](Nome.fw.png)
  ![](sprite6-sheet0.png)
+ ![](LVitoria.png)
  * * *  
 ## PARTICIPAÇÕES EM EVENTOS:    
  * AULA DE MÚSICA
