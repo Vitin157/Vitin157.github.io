@@ -18,10 +18,11 @@ Natal/RN
 ## JOGOS:  
 [JOGO OFICINA: A caça ao mito ](https://vitin157.github.io/a_caça_ao_mito/)  
 [JOGO OFICINA: A História do Futebol ](https://vitin157.github.io/HistoryofSoccer/)  
+[JOGO OFICINA: TOWER DEFENSE ](https://alvaromd2016.github.io/Tower%20Defense/)
  * * *  
 ## ARTES AUTORAIS:  
  ![IMAGEM1](LINK)  
- ![layout vitoria.png	]
+ ![](layout vitoria.png	)
  * * *  
 ## PARTICIPAÇÕES EM EVENTOS:    
  * AULA DE MÚSICA
