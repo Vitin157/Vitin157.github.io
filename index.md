@@ -14,9 +14,10 @@ Natal/RN
 # PORTIFÓLIO  
  * * *  
 ## JOGOS:  
-[JOGO OFICINA: A caça ao mito ](https://alvaromd2016.github.io/A%20ca%C3%A7a%20ao%20mito/)  
-[JOGO OFICINA: A História do Futebol ](https://vitor04.github.io/HistoryofSoccer/)  
-[JOGO OFICINA: TOWER DEFENSE ](https://alvaromd2016.github.io/Tower%20Defense/)
+[JOGO OFICINA 1 BIMESTRE: A caça ao mito ](https://alvaromd2016.github.io/A%20ca%C3%A7a%20ao%20mito/)  
+[JOGO OFICINA 2 BIMESTRE: A História do Futebol ](https://vitor04.github.io/HistoryofSoccer/)   
+[JOGO OFICINA 3 BIMESTRE: PUM ](https://elielton90.github.io/PUM/)  
+[JOGO MOTORES 3 BIMESTRE: TOWER DEFENSE ](https://alvaromd2016.github.io/Tower%20Defense/)
  * * *  
 ## ARTES AUTORAIS:  
 ![](thgfdrghghrgjgfdrgjf.png)  
