@@ -29,7 +29,7 @@ Natal/RN
 ![](indio-sheet0.png)
 
  * * *
- ## INFLUENCE MAP: 
+ ## INFLUENCE MAP:   
  
  ![](PicsArt_02-15-08.13.33.jpg)
  
@@ -44,7 +44,7 @@ Natal/RN
  3. Durval Pacheco, PROFESSOR DE MULTIMÍDIA E ANIMAÇÃO.
  * * *
  
- ## Endereço para contato
+ ## Endereço para contato  
  
   * E-MAIL: vitoralif@yahoo.com.br / vitinhomsf01@gmail.com
   * Facebook: Vitinho Silva
