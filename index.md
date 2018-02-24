@@ -14,7 +14,7 @@ Natal/RN
 # PORTIFÓLIO  
  * * *  
 ## JOGOS:  
-[JOGO OFICINA: A caça ao mito ](https://vitor04.github.io/a_caça_ao_mito/)  
+[JOGO OFICINA: A caça ao mito ](https://alvaromd2016.github.io/A%20ca%C3%A7a%20ao%20mito/)  
 [JOGO OFICINA: A História do Futebol ](https://vitor04.github.io/HistoryofSoccer/)  
 [JOGO OFICINA: TOWER DEFENSE ](https://alvaromd2016.github.io/Tower%20Defense/)
  * * *  
@@ -28,6 +28,7 @@ Natal/RN
 
  * * *
  ## INFLUENCE MAP: 
+ 
  ![](PicsArt_02-15-08.13.33.jpg)
  
  * * *  
@@ -42,8 +43,9 @@ Natal/RN
  * * *
  
  ## Endereço para contato
+ 
   * E-MAIL: vitoralif@yahoo.com.br / vitinhomsf01@gmail.com
-  * Facebook: [](https://www.facebook.com/vitinhomsf01)
+  * Facebook: Vitinho Silva
  
  
 
