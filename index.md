@@ -20,9 +20,10 @@ Natal/RN
  * * *  
 ## ARTES AUTORAIS:  
 ![](thgfdrghghrgjgfdrgjf.png)  
-![](Nome.fw.png)
 ![](sprite6-sheet0.png)
 ![](fundo-sheet0.png)
+![](pum.png)
+![](pers-sheet1.png)
 ![](LVitoria.png)
 ![](indio-sheet0.png)
 
