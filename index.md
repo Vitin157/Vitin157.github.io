@@ -11,7 +11,7 @@ Vitor Manoel, estudante quase concluinte do curso de Programação de Jogos Digi
 Natal/RN
 
  * * *
-# PORTIFÓLIO  
+# PORTFÓLIO  
  * * *  
 ## JOGOS:  
 [JOGO OFICINA 1 BIMESTRE: A caça ao mito ](https://alvaromd2016.github.io/A%20ca%C3%A7a%20ao%20mito/)  
