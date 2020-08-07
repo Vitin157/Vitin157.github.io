@@ -7,7 +7,7 @@ layout: default
 
 # QUEM SOU EU?  
 # ![](pt1.png)  
-Vitor Manoel, estudante quase concluinte do curso de Programação de Jogos Digitais pelo IFRN-CM, 17 anos e futuro engenheiro químico.
+Vitor Manoel, formado em Programação de Jogos Digitais pelo IFRN-CM, 19 anos e bacharelando em química.
 Natal/RN
 
  * * *
@@ -38,6 +38,7 @@ Natal/RN
  * AULA DE MÚSICA: **CIA MUSICAL TIÊ, OS SALTIMBANCOS, 2016.2**
  * AULA DE TEATRO: **CIA MUSICAL TIÊ, OS SALTIMBANCOS, 2016.2**
  * AULA DE JOGOS: **IFRN, PROGRAMAÇÃO DE JOGOS DIGITAIS, CRIANDO JOGOS DESDE 2017.1**
+ * GAMEJAM+ 2018.
  
  1. Marcelo Barbosa, PROFESSOR DE MOTORES DE JOGOS E OFICINA DE CRIAÇÃO.
  2. Tiago Fernando, PROFESSOR DE GAME DESIGN.
@@ -46,8 +47,9 @@ Natal/RN
  
  ## Endereço para contato  
  
-  * E-MAIL: vitoralif@yahoo.com.br / vitinhomsf01@gmail.com
-  * Facebook: Vitinho Silva
+  * E-MAIL: vitoralif@yahoo.com.br / vitormsf01@gmail.com
+  * FACEBOOK: Vitor Fernandes
+  * INSTAGRAM: @vitor.fer_
  
  
 
