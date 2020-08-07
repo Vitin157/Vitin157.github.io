@@ -28,7 +28,9 @@ Natal/RN
 ![](pum.png)
 ![](pers-sheet1.png)
 ![](LVitoria.png)
-![](indio-sheet0.png)
+![](Personagem2TCC.png)
+![](logo.png)
+![](Inimigo2TCC.png)
 
  * * *
  ## INFLUENCE MAP:   
